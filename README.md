@@ -8,3 +8,4 @@ This text will be **bold** and this is *italics*
 
 We will try to create a new branch
 
+Second branch
