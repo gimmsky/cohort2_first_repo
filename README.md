@@ -5,3 +5,4 @@ Example Repository for class
 ## Header 2
 
 This text will be **bold** and this is *italics*
+
